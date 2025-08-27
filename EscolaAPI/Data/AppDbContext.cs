@@ -1,5 +1,5 @@
-using Microsoft.EntityFrameworkCore;
 using EscolaAPI.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace EscolaAPI.Data
 {
@@ -9,12 +9,18 @@ namespace EscolaAPI.Data
         {
         }
 
-        public DbSet<Aluno> Alunos { get; set; }
         public DbSet<Professor> Professores { get; set; }
+        public DbSet<Aluno> Alunos { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            // Configurações adicionais do modelo podem ser feitas aqui
+            // Configuração do relacionamento Professor -> Alunos
+            modelBuilder.Entity<Aluno>()
+                .HasOne(a => a.Professor)
+                .WithMany(p => p.Alunos)
+                .HasForeignKey(a => a.ProfessorId)
+                .OnDelete(DeleteBehavior.Cascade);
+
             base.OnModelCreating(modelBuilder);
         }
     }

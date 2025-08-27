@@ -1,54 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\aluno\\downloads\\escolaapi\\escolaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\administrator\\downloads\\projeto-curso-webapi\\escolaapi\\dtos\\professordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\dtos\\professordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\aluno\\downloads\\escolaapi\\escolaapi\\controllers\\professorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\controllers\\professorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\administrator\\downloads\\projeto-curso-webapi\\escolaapi\\dtos\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\dtos\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\aluno\\downloads\\escolaapi\\escolaapi\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\administrator\\downloads\\projeto-curso-webapi\\escolaapi\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\aluno\\downloads\\escolaapi\\escolaapi\\services\\professorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\administrator\\downloads\\projeto-curso-webapi\\escolaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\administrator\\downloads\\projeto-curso-webapi\\escolaapi\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\administrator\\downloads\\projeto-curso-webapi\\escolaapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\administrator\\downloads\\projeto-curso-webapi\\escolaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\administrator\\downloads\\projeto-curso-webapi\\escolaapi\\controllers\\professorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\controllers\\professorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\administrator\\downloads\\projeto-curso-webapi\\escolaapi\\services\\professorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\services\\professorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\aluno\\downloads\\escolaapi\\escolaapi\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\administrator\\downloads\\projeto-curso-webapi\\escolaapi\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\aluno\\downloads\\escolaapi\\escolaapi\\repositories\\professorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\administrator\\downloads\\projeto-curso-webapi\\escolaapi\\repositories\\professorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\repositories\\professorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\aluno\\downloads\\escolaapi\\escolaapi\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\administrator\\downloads\\projeto-curso-webapi\\escolaapi\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\aluno\\downloads\\escolaapi\\escolaapi\\repositories\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\administrator\\downloads\\projeto-curso-webapi\\escolaapi\\repositories\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\repositories\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\aluno\\downloads\\escolaapi\\escolaapi\\repositories\\iprofessorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\administrator\\downloads\\projeto-curso-webapi\\escolaapi\\repositories\\iprofessorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\repositories\\iprofessorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\Migrations\\20250826163232_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EscolaAPI\\Migrations\\20250826163232_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\aluno\\downloads\\escolaapi\\escolaapi\\escolaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\administrator\\downloads\\projeto-curso-webapi\\escolaapi\\escolaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\escolaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\aluno\\downloads\\escolaapi\\escolaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\administrator\\downloads\\projeto-curso-webapi\\escolaapi\\migrations\\20250826163232_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8294CE50-8B58-4EA9-8EEE-AD3FB1E1900C}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\migrations\\20250826163232_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,31 +74,194 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfessorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\DTOs\\ProfessorDTO.cs",
+              "RelativeDocumentMoniker": "EscolaAPI\\DTOs\\ProfessorDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\DTOs\\ProfessorDTO.cs",
+              "RelativeToolTip": "EscolaAPI\\DTOs\\ProfessorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T00:41:43.45Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AlunoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\DTOs\\AlunoDTO.cs",
+              "RelativeDocumentMoniker": "EscolaAPI\\DTOs\\AlunoDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\DTOs\\AlunoDTO.cs",
+              "RelativeToolTip": "EscolaAPI\\DTOs\\AlunoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T00:41:12.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "EscolaAPI\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Models\\Aluno.cs",
+              "RelativeToolTip": "EscolaAPI\\Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T21:04:14.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProfessorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Repositories\\ProfessorRepository.cs",
+              "RelativeDocumentMoniker": "EscolaAPI\\Repositories\\ProfessorRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Repositories\\ProfessorRepository.cs",
+              "RelativeToolTip": "EscolaAPI\\Repositories\\ProfessorRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:34:05.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Repositories\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "EscolaAPI\\Repositories\\AlunoRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Repositories\\AlunoRepository.cs",
+              "RelativeToolTip": "EscolaAPI\\Repositories\\AlunoRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:33:45.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProfessorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Repositories\\IProfessorRepository.cs",
+              "RelativeDocumentMoniker": "EscolaAPI\\Repositories\\IProfessorRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Repositories\\IProfessorRepository.cs",
+              "RelativeToolTip": "EscolaAPI\\Repositories\\IProfessorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:33:06.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Repositories\\IAlunoRepository.cs",
+              "RelativeDocumentMoniker": "EscolaAPI\\Repositories\\IAlunoRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Repositories\\IAlunoRepository.cs",
+              "RelativeToolTip": "EscolaAPI\\Repositories\\IAlunoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:32:56.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250826163232_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Migrations\\20250826163232_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EscolaAPI\\Migrations\\20250826163232_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Migrations\\20250826163232_InitialCreate.cs",
+              "RelativeToolTip": "EscolaAPI\\Migrations\\20250826163232_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:32:33.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Controllers\\AlunosController.cs",
+              "RelativeDocumentMoniker": "EscolaAPI\\Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Controllers\\AlunosController.cs",
+              "RelativeToolTip": "EscolaAPI\\Controllers\\AlunosController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADgvyoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:35:23.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EscolaAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EscolaAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T21:04:29.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EscolaAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\EscolaAPI.csproj",
+              "RelativeDocumentMoniker": "EscolaAPI\\EscolaAPI.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\EscolaAPI.csproj",
+              "RelativeToolTip": "EscolaAPI\\EscolaAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-26T16:29:52.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EscolaAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Program.cs",
+              "RelativeToolTip": "EscolaAPI\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwDUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:24:49.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EscolaAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\appsettings.json",
+              "RelativeToolTip": "EscolaAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T16:24:22.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Services\\AlunoService.cs",
+              "RelativeDocumentMoniker": "EscolaAPI\\Services\\AlunoService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Services\\AlunoService.cs",
+              "RelativeToolTip": "EscolaAPI\\Services\\AlunoService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv08AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:34:19.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ProfessoresController.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\Controllers\\ProfessoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Controllers\\ProfessoresController.cs",
               "RelativeDocumentMoniker": "EscolaAPI\\Controllers\\ProfessoresController.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\Controllers\\ProfessoresController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Controllers\\ProfessoresController.cs",
               "RelativeToolTip": "EscolaAPI\\Controllers\\ProfessoresController.cs",
               "ViewState": "AgIAADMAAAAAAAAAAADwv0wAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -91,146 +270,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AlunosController.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\Controllers\\AlunosController.cs",
-              "RelativeDocumentMoniker": "EscolaAPI\\Controllers\\AlunosController.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\Controllers\\AlunosController.cs",
-              "RelativeToolTip": "EscolaAPI\\Controllers\\AlunosController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAADwv0wAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:35:23.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ProfessorService.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\Services\\ProfessorService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Services\\ProfessorService.cs",
               "RelativeDocumentMoniker": "EscolaAPI\\Services\\ProfessorService.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\Services\\ProfessorService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Projeto-Curso-WebAPI\\EscolaAPI\\Services\\ProfessorService.cs",
               "RelativeToolTip": "EscolaAPI\\Services\\ProfessorService.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAADwv0gAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:34:35.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AlunoService.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\Services\\AlunoService.cs",
-              "RelativeDocumentMoniker": "EscolaAPI\\Services\\AlunoService.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\Services\\AlunoService.cs",
-              "RelativeToolTip": "EscolaAPI\\Services\\AlunoService.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAADwv08AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:34:19.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProfessorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\Repositories\\ProfessorRepository.cs",
-              "RelativeDocumentMoniker": "EscolaAPI\\Repositories\\ProfessorRepository.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\Repositories\\ProfessorRepository.cs",
-              "RelativeToolTip": "EscolaAPI\\Repositories\\ProfessorRepository.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAwwDIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:34:05.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AlunoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\Repositories\\AlunoRepository.cs",
-              "RelativeDocumentMoniker": "EscolaAPI\\Repositories\\AlunoRepository.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\Repositories\\AlunoRepository.cs",
-              "RelativeToolTip": "EscolaAPI\\Repositories\\AlunoRepository.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwDMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:33:45.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IProfessorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\Repositories\\IProfessorRepository.cs",
-              "RelativeDocumentMoniker": "EscolaAPI\\Repositories\\IProfessorRepository.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\Repositories\\IProfessorRepository.cs",
-              "RelativeToolTip": "EscolaAPI\\Repositories\\IProfessorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:33:06.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IAlunoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\Repositories\\IAlunoRepository.cs",
-              "RelativeDocumentMoniker": "EscolaAPI\\Repositories\\IAlunoRepository.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\Repositories\\IAlunoRepository.cs",
-              "RelativeToolTip": "EscolaAPI\\Repositories\\IAlunoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:32:56.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20250826163232_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\Migrations\\20250826163232_InitialCreate.cs",
-              "RelativeDocumentMoniker": "EscolaAPI\\Migrations\\20250826163232_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\Migrations\\20250826163232_InitialCreate.cs",
-              "RelativeToolTip": "EscolaAPI\\Migrations\\20250826163232_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:32:33.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EscolaAPI",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj",
-              "RelativeDocumentMoniker": "EscolaAPI\\EscolaAPI.csproj",
-              "ToolTip": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj",
-              "RelativeToolTip": "EscolaAPI\\EscolaAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-26T16:29:52.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\Program.cs",
-              "RelativeDocumentMoniker": "EscolaAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\Program.cs",
-              "RelativeToolTip": "EscolaAPI\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:24:49.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "EscolaAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Aluno\\Downloads\\EscolaAPI\\EscolaAPI\\appsettings.json",
-              "RelativeToolTip": "EscolaAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABrAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-26T16:24:22.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T16:34:35.178Z"
             }
           ]
         }

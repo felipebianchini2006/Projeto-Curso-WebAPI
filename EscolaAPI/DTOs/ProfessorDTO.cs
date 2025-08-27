@@ -11,7 +11,7 @@ namespace EscolaAPI.DTOs
     public class ProfessorCreateDTO
     {
         public string Nome { get; set; }
-        public DateTime DataNascimento { get; set; }
+        public DateTime DataNascimento { get; set; } // DateTime aceita string automaticamente
         public string Materia { get; set; }
     }
 }

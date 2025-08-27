@@ -6,32 +6,29 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
-
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// Registrar repositórios
+// Configuração do Entity Framework
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+// Registro das dependências
 builder.Services.AddScoped<IAlunoRepository, AlunoRepository>();
 builder.Services.AddScoped<IProfessorRepository, ProfessorRepository>();
-
-// Registrar serviços
 builder.Services.AddScoped<AlunoService>();
 builder.Services.AddScoped<ProfessorService>();
 
-// Configurar CORS
+// CORS mais permissivo para debug
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("DefaultPolicy",
-        builder =>
+    options.AddPolicy("AllowAll",
+        policy =>
         {
-            builder.WithOrigins("http://localhost:3000", "http://localhost:5173")
-                   .AllowAnyMethod()
-                   .AllowAnyHeader()
-                   .AllowCredentials();
+            policy.AllowAnyOrigin()
+                  .AllowAnyHeader()
+                  .AllowAnyMethod();
         });
 });
 
@@ -44,12 +41,14 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+// Remover temporariamente para debug
+// app.UseHttpsRedirection();
+
+// CORS - deve vir antes de UseAuthorization
+app.UseCors("AllowAll");
 
 app.UseAuthorization();
 
 app.MapControllers();
-
-app.UseCors("DefaultPolicy");
 
 app.Run();

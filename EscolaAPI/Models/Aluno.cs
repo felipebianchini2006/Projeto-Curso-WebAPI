@@ -1,6 +1,5 @@
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 using EscolaAPI.Enums;
+using System.ComponentModel.DataAnnotations;
 
 namespace EscolaAPI.Models
 {
@@ -21,7 +20,6 @@ namespace EscolaAPI.Models
         public int ProfessorId { get; set; }
 
         // Propriedade de navegação
-        [ForeignKey("ProfessorId")]
         public virtual Professor Professor { get; set; }
     }
 }
